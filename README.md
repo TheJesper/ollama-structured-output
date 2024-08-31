@@ -84,7 +84,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Jesper Wilfing**
 - **Conzeon AB, Gothenburg, Sweden**
 
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
+Contributions are welcome! Feel free to fork this repository and submit pull requests. Let me know if these instructions are unbearable!
 
 ---
 
