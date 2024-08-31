@@ -82,7 +82,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 - **Jesper Wilfing**
-- **Comzeon AB, Gothenburg, Sweden**
+- **Conzeon AB, Gothenburg, Sweden**
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
