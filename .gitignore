@@ -1,0 +1,34 @@
+# Output and log directories/files
+output/
+test_logs/
+
+# Jupyter Notebook checkpoints (if you use Jupyter)
+.ipynb_checkpoints/
+
+# VS Code specific settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# MyPy type check cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pylint report
+pylint_report.txt
+
+# Profiling data
+.prof
+
+# Virtual environment
+venv/

@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2024-08-31T19:04:21.107924",
+    "results": {
+      "date_time": "2024-08-31 19:04:21",
+      "model_name": "llama3",
+      "iterations": 40,
+      "successful_runs": 40,
+      "failed_runs": 0,
+      "total_retries": 0,
+      "total_time": 117.97,
+      "efficiency": 0.3390659416015636
+    }
+  }
+]

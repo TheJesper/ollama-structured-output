@@ -1,0 +1,9 @@
+{
+  "api_endpoint": "http://localhost:11434/api/generate",
+  "output_dir": "output",
+  "source_dir": "source",
+  "test_dir": "test",
+  "last_model": "phi3:3.8b",
+  "save_files": true,
+  "retry_attempts": 3
+}

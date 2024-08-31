@@ -1,0 +1,28 @@
+{
+    "title": "CountryDetails",
+    "type": "object",
+    "properties": {
+      "country": {
+        "type": "string",
+        "description": "The name of the country."
+      },
+      "capital": {
+        "type": "string",
+        "description": "The capital city of the country."
+      },
+      "population": {
+        "type": "integer",
+        "description": "The population of the country."
+      },
+      "officialLanguage": {
+        "type": "string",
+        "description": "The official language of the country."
+      },
+      "currency": {
+        "type": "string",
+        "description": "The currency used in the country."
+      }
+    },
+    "required": ["country", "location", "capital", "population", "officialLanguage", "currency"]
+  }
+  
