@@ -37,22 +37,25 @@ Welcome to **Ollama Structured Output** – a powerful tool designed to help you
 - **pip** (to install required packages)
 - **Ollama API** configured and running locally.
 
-## 🧩 Installation
+### 🛠️ Installation & Setup
 
-Clone the repository and navigate to the project directory:
+### 1.Clone the Repository
 
-```
+First, clone the repository and navigate to the project directory:
+
 git clone https://github.com/TheJesper/ollama-structured-output.git
+
 cd ollama-structured-output
-```
 
-Install the required Python packages:
+### 2.Install Dependencies
 
-```
+Install the required Python packages using the provided requirements.txt file:
+
 pip install -r requirements.txt
-```
 
-Make sure you have the **Ollama API** running locally. Adjust the configuration in `config.json` if necessary.
+### 3.Configure the Ollama API
+
+Ensure that the Ollama API is running locally. You can adjust the configuration settings by editing the config/config.json file to match your local environment or any specific requirements you might have.
 
 ## ⚙️ Configuration
 
