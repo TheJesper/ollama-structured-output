@@ -88,4 +88,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ---
 
-*Developed with the help of AI and human collaboration.* 🤖🤝
+*Developed with the help of humans.* 🤖🤝

@@ -36,3 +36,6 @@ test_logs/
 
 # Virtual environment
 venv/
+
+__pycache__/
+*.py[cod]
