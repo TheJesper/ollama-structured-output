@@ -27,6 +27,10 @@ dmypy.json
 # pylint report
 pylint_report.txt
 
+# Output directories
+output/
+test_logs/
+
 # Profiling data
 .prof
 
