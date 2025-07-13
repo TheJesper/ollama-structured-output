@@ -1,3 +1,4 @@
+Edit: Great news! Support is now native to Ollama in regards to Structured Outputs making this repo somewhat or completely redundant! 
 
 # Ollama Structured Output 🛠️
 
